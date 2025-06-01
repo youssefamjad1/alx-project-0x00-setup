@@ -3,5 +3,5 @@ export interface PillProps {
 }
 export interface ButtonProps {
   title: string;
-  styles?: string; // Optional styles string to customize button
+  styles: string; 
 }
